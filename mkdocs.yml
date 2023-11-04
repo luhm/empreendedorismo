@@ -40,7 +40,11 @@ markdown_extensions:
 nav:
   - Empreendedorismo:
     - Informações Gerais: empreendedorismo/m4d1_empreendedorismo.md
-    - Conteúdo: empreendedorismo/emp_conteudo.md
+    - Conteúdo:
+      - Unidade 1: empreendedorismo/emp_conteudo1.md
+      - Unidade 2: empreendedorismo/emp_conteudo2.md
+      - Unidade 3: empreendedorismo/emp_conteudo3.md
+      - Unidade 4: empreendedorismo/emp_conteudo4.md
     - Avaliações: empreendedorismo/emp_avaliacoes.md
     - Projeto: empreendedorismo/emp_projeto.md
 

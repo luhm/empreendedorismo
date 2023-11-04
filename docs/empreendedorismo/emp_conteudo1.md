@@ -1,6 +1,6 @@
 # <span style="color:#e0a5e7">**UNIDADE 1**</span>
 
-Estatísticas:
+Estatísticas:d
 
 * entre 21 e 25 anos
 * 60% homens
@@ -123,7 +123,7 @@ Plano de negócios:
 * missão, visão, valores
 * financeiro, contratação, gastos
 
-# <span style="color:#e0a5e7">**UNIDADE 2**</span>
+
 
 # <span style="color:#e0a5e7">**UNIDADE 3**</span>
 
