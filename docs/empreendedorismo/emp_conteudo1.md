@@ -1,4 +1,4 @@
-# <span style="color:#e0a5e7">**UNIDADE 1**</span>
+# <span style="color:#A082D6">**UNIDADE 1**</span>
 
 Estatísticas:d
 
@@ -123,8 +123,3 @@ Plano de negócios:
 * missão, visão, valores
 * financeiro, contratação, gastos
 
-
-
-# <span style="color:#e0a5e7">**UNIDADE 3**</span>
-
-# <span style="color:#e0a5e7">**UNIDADE 4**</span>

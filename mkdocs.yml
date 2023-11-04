@@ -15,8 +15,8 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: purple
-      accent: pink
+      primary: dark purple
+      accent: purple
       toggle:
         icon: material/brightness-7
         name: Dark mode

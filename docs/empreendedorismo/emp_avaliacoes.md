@@ -1,6 +1,6 @@
-# <span style="color:#e0a5e7">**AVALIAÇÕES**</span>
+# <span style="color:#A082D6">**AVALIAÇÕES**</span>
 
-## FÓRUM - <span style="color:purple">ATÉ 22/11</span>
+## FÓRUM - <span style="color:#66489D">ATÉ 22/11</span>
 
 * [ ] FEITO
 * [ ] POSTADO
@@ -22,16 +22,16 @@ O empreendedorismo social não possui como foco o lucro, ele utiliza técnicas d
 3. Apresente suas ideias de projetos de empreendedorismo social em sua área de formação ou peça feedback sobre elas. (Tópico de resposta opcional)
 4. Deixe pelo menos 1 comentário na postagem de um de seus colegas.
 
-## QME - UN 2 - <span style="color:purple">ATÉ 29/11</span>
+## QME - UN 2 - <span style="color:#66489D">ATÉ 29/11</span>
 
 * [ ] FEITO
 
-## ATV ABERTA - <span style="color:purple">ATÉ 22/11</span>
+## ATV ABERTA - <span style="color:#66489D">ATÉ 22/11</span>
 
 * [ ] FEITO
 
 * [ ] POSTADO
 
-## QME - UN 4 - <span style="color:purple">ATÉ 29/11</span>
+## QME - UN 4 - <span style="color:#66489D">ATÉ 29/11</span>
 
 * [ ] FEITO

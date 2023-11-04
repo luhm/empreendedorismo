@@ -1,4 +1,4 @@
-# <span style="color:#e0a5e7">**PROJETO FINAL - MODELO DE NEGÓCIOS**</span>
+# <span style="color:#A082D6">**PROJETO FINAL - MODELO DE NEGÓCIOS**</span>
 
 Essa atividade será entregue e apresentada na ultima aula presencial da disciplina.
 
