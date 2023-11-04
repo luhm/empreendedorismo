@@ -1,4 +1,4 @@
-## UNIDADE 1
+# <span style="color:#e0a5e7">**UNIDADE 1**</span>
 
 Estatísticas:
 
@@ -24,14 +24,14 @@ Características:
 
 > Para se definir um perfil empreendedor, a profissão é um critério irrelevante. Qualquer pessoa, desde que se oriente pela ação e por resultados, que perceba o mundo como um imenso e inesgotável espaço de possibilidades, que tenha visões, imaginação, e que, ao longo de sua existência, construa um histórico de realizações, pode ser considerada um empreendedor.
 
-### INTRAEMPREENDEDORISMO
+## INTRAEMPREENDEDORISMO
 
 Empreendedor corporativo, dentro da propria empresa
 > O intraempreendedor ou o empreendedor corporativo precisa não apenas liderar uma equipe, ser proativo, mas ser muito mais, assumir responsabilidades, envolver-se com o processo, influenciar as pessoas que terá junto de si.
 
-### CULTURA EMPREENDEDORA E PERFIL DO EMPREENDEDOR
+## CULTURA EMPREENDEDORA E PERFIL DO EMPREENDEDOR
 
-#### DIMENSÃO 1 - COMPORTAMENTO
+### DIMENSÃO 1 - COMPORTAMENTO
 
 * otimismo
 * autoconfiança
@@ -39,7 +39,7 @@ Empreendedor corporativo, dentro da propria empresa
 * desejo de protagonismo
 * resiliência e persistência
 
-#### DIMENSÃO 2 - MODELO DE GESTÃO, _modus operandi_
+### DIMENSÃO 2 - MODELO DE GESTÃO, _modus operandi_
 
 * paternalista
 * lider
@@ -47,7 +47,7 @@ Empreendedor corporativo, dentro da propria empresa
 * visionário
 * trator
 
-#### DIMENSÃO 3 - MOTIVACIONAL
+### DIMENSÃO 3 - MOTIVACIONAL
 
 * Natos - realização de sonhos
 * Meu jeito - reconhecimento
@@ -56,19 +56,19 @@ Empreendedor corporativo, dentro da propria empresa
 * Idealista - contribuir, fazer sua parte
 * Busca do milhão - lucro
 
-### EMPREENDEDORISMO NO BRASIL
+## EMPREENDEDORISMO NO BRASIL
 
 * Empreendedores iniciais
   * nascentes - não obtiveram lucro ainda e nem pagaram salarios etc por mais de 3 meses
   * novos - ja pagaram por mais de 3 meses, até 42 meses
 * estabelecidos - consolidados há mais de 3,5 anos
 
-#### EMPREENDEDORISMO POR NECESSIDADE
+### EMPREENDEDORISMO POR NECESSIDADE
 
 * Não tem melhores condições de trabalho
 * Economia em crise
 
-#### EMPREENDEDORISMO POR OPORTUNIDADE
+### EMPREENDEDORISMO POR OPORTUNIDADE
 
 * diminui em períodos de crise
 
@@ -80,7 +80,7 @@ Empreendedor corporativo, dentro da propria empresa
 * Qual a equipe que transformará essa oportunidade em negócio?
 * Até que ponto o empreendedor está comprometido com o negócio?
 
-### EMPREENDEDORISMO INTERNACIONAL
+## EMPREENDEDORISMO INTERNACIONAL
 
 Era de empreendedorismo, eliminando barreiras comerciais.
 Comparativo entre países:
@@ -92,7 +92,7 @@ Comparativo entre países:
 
 > Normalmente, em países com melhores alternativas de emprego e maior nível de desenvolvimento econômico, há maior incidência de empreendedores por oportunidade.
 
-### PLANO DE NEGÓCIO X MODELO DE NEGÓCIO
+## PLANO DE NEGÓCIO X MODELO DE NEGÓCIO
 
 Modelo:
 
@@ -123,8 +123,8 @@ Plano de negócios:
 * missão, visão, valores
 * financeiro, contratação, gastos
 
-## UNIDADE 2
+# <span style="color:#e0a5e7">**UNIDADE 2**</span>
 
-## UNIDADE 3
+# <span style="color:#e0a5e7">**UNIDADE 3**</span>
 
-## UNIDADE 4
+# <span style="color:#e0a5e7">**UNIDADE 4**</span>
