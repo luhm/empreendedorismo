@@ -24,6 +24,15 @@ Ideia:
 
 ## COMO
 
+### parcerias principais
+
+### atividades principais
+
+- <span style="color:#A082D6"> Resolução de problemas </span>: automatização da vetorização de alvos volumétricos em readioterapia
+- <span style="color:#A082D6"> Plataforma </span>: criação de software
+
+### recursos principais
+
 ## O QUE
 
 <span style="color:#A082D6"> **Formular um software que consiga facilitar e automatizar o trabalho de definição de volume alvo em telerradioterapia** </span>
