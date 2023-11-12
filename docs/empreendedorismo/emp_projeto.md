@@ -16,6 +16,7 @@ Essa atividade será entregue e apresentada na ultima aula presencial da discipl
     - Estrutura de custos
     - Fontes de receita
 
+
 Ideia:
 
 - Intraempreendedorismo
