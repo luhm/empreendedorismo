@@ -2,7 +2,7 @@
 
 ## FÓRUM - <span style="color:#66489D">ATÉ 22/11</span>
 
-* [ ] FEITO
+* [X] FEITO
 * [ ] POSTADO
 
 Leia o texto a seguir: [“Empreendedorismo Social no Brasil: Exemplos De Empreendimentos Sociais”](https://periodicos.uem.br/ojs/index.php/rev_prod/article/view/52360/pdf) de Larissa Candida Rodrigues – Universidade Estadual do Paraná - Campus de Campo Mourão.
@@ -13,6 +13,7 @@ O empreendedorismo social não possui como foco o lucro, ele utiliza técnicas d
 
 É importante destacar que o Empreendedorismo Social vem crescendo de importância na nossa sociedade nos últimos anos e as empresas que aderem essa prática têm boa visibilidade no mercado. Nesse sentido, discuta com seus colegas sobre:
 
+_Postado em 12/11/2023, às 11:52_
 1. Registre alguns dos desafios do Empreendedorismo Social na sua área de formação.
    Na área de biomedicina acredito que o maior desafio do empreendedorismo social seja a parte financeira, visto que nossa profissão é muito voltada para laboratórios, o que demanda uso de máquinas, kits e EPIs que geram gastos e que, sem retorno financeiro ou investimento, fica difícil manter. Assim, um empreendimento que se volte para a sociedade e não para esse lucro (ou pelo menos um valor simbólico) é difícil de se manter.
 2. Compartilhe exemplos de empreendedores sociais ou organizações que tiveram um impacto positivo na sociedade (evite colocar exemplos que já estejam em discussão; não precisa ser em sua área de formação).
@@ -31,6 +32,18 @@ O empreendedorismo social não possui como foco o lucro, ele utiliza técnicas d
 * [ ] FEITO
 
 * [ ] POSTADO
+
+Falar sobre empreendedorismo na área de saúde é de vital importância, pois essa abordagem não apenas impulsiona a inovação e o progresso no setor, mas também capacita profissionais de saúde a encontrar soluções criativas para os desafios complexos enfrentados na área. O empreendedorismo na saúde promove o desenvolvimento de novas tecnologias, práticas de atendimento e modelos de negócios que podem melhorar a qualidade dos serviços prestados e tornar a assistência médica mais acessível e eficiente.
+
+Além disso, encoraja a mentalidade de busca de oportunidades, adaptabilidade e autossuficiência, habilidades cruciais em um ambiente de saúde em constante evolução. Ao incentivar discussões sobre empreendedorismo na área de saúde, estamos preparando os profissionais de saúde para enfrentar os desafios futuros e impulsionar avanços significativos. Diante disso, leia com atenção aos comandos da atividade e desenvolva o que se pede:
+
+1. Escolha do conceito de negócio: Escolha um conceito de negócio online na área que você está estudando e pretende atuar como profissional, como por exemplo, um aplicativo de saúde, plataforma de tele consulta, blog de saúde, loja de produtos de bem-estar. Você deve justificar as suas escolhas com base em oportunidades de mercado e interesse pessoal.
+2. Pesquisa de Mercado: Pesquisar o mercado na área em que pretende atuar e coletar dados dos concorrentes, tendências de mercado e necessidades não atendidas.
+3. Com base na pesquisa de mercado e nas informações coletadas, ajustar e aprimorar a justificativa para a escolha do conceito de negócio.
+4. Elaborar um Resumo do Conceito: criar um resumo conciso do seu conceito de negócio, incluindo os principais pontos que destacam sua viabilidade e oportunidades de sucesso.
+
+A atividade deve conter nó máximo uma página, seguir normas de formatação ABNT.
+
 
 ## QME - UN 4 - <span style="color:#66489D">ATÉ 29/11</span>
 
