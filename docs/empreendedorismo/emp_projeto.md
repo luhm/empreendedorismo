@@ -1,6 +1,18 @@
 # <span style="color:#A082D6">**PROJETO FINAL - MODELO DE NEGÓCIOS**</span>
 
-Essa atividade será entregue e apresentada na ultima aula presencial da disciplina.
+Essa atividade será entregue em duas partes:
+
+1. apresentação na aula presencial da disciplina dos tópicos "o que" e "para quem" - <span style="color:#A082D6">**25/11**</span>
+
+- [ ] PRONTO
+
+2. envio pelo AVA do seu Modelo de Negócios completo - <span style="color:#A082D6">**03/12**</span>
+
+- [ ] PRONTO
+
+- [ ] ENVIADO
+
+----------
 
 - Como?
     - parcerias principais
@@ -16,13 +28,14 @@ Essa atividade será entregue e apresentada na ultima aula presencial da discipl
     - Estrutura de custos
     - Fontes de receita
 
-
-Ideia:
+----------
+# <span style="color:#A082D6">Ideia:</span>
 
 - Intraempreendedorismo
     - consultoria em bioinformática
     - software de dosimetria automática
 
+---------
 ## COMO
 
 ### parcerias principais
@@ -47,5 +60,15 @@ Mais informações sobre desenho 3D e volume alvo em:
 
 
 ## PRA QUEM
+__QUEM É MEU CLIENTE?__
+### relacionamento com clientes
+
+### segmentos de clientes
+
+### canais
 
 ## QUANTO
+
+### Estrutura de custos
+
+### Fontes de receita
