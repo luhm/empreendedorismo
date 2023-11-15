@@ -73,3 +73,53 @@ O conceito de desenvolvimento sustentável foi criado em 1987 no documento “No
 ## HABILIDADES E COMPETENCIAS EMPREENDEDORAS
 ### CRITIVIDADE E INOVAÇÃO
 
+- 4 dimensões da criatividade:
+    - o produto
+    - o processo
+    - a pessoa
+    - o ambiente (pressão)
+- Bloqueios de criatividade
+    - Ser aceito por um grupo
+    - preocupação excessiva com retorno econômico
+    - desejo de ser percebido como uma pessoa educada
+    - individualismo ou coletivismo exacerbados
+    - preocupação excessiva com a consistencia lógica
+    - espera de condições ideais
+    - a síndrome do rei da cocada preta
+    - receio de parecer preguiçoso
+- Ativadores de criatividade: métodos que libertam das amarras e permitem explorar suas capacidades individuais
+    - Brainstorming
+        - criticas são proibidas
+        - disparates são bem-vindos
+        - quanto mais ideias, melhor
+        - procure combinações e melhorias
+- Inovações
+    - não apenas na área tecnológica
+    - de produto, de processo, de marketing, organizacionais
+    - grau de impacto provocado
+        - incremental
+        - radical: mudança
+    - relação com a necessidade de mercado
+        - tipo A: radical, extrapola
+        - tipo B: radical, laboratório
+        - tipo C: incremental, limitada a um grupo específico
+    - grau de controle da empresa sobre o processo
+        - fechada: dentro dos limites da empresa
+        - aberta: conhecimento gerado externamente
+- Oceano Azul
+    - estratégia de mercado
+    - para de tentar vencer a concorrência
+    - inovar com produtos e serviços inexistentes, ao invés da alta competitividade do oceano vermelho, cheio de sangue
+    - foca na proposta de valor e não nos custos
+    - instrumento de 4 ações
+        - elimine
+        - reduza
+        - aumente
+        - crie
+
+![](./assets/oceanos.png)
+<fig>Oceano vermelho x Oceano azul</fig>
+
+### Comunicação
+
+
