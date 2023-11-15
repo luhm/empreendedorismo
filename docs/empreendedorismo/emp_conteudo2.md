@@ -1,6 +1,6 @@
 # <span style="color:#A082D6">**UNIDADE 2**</span>
 
-## Sustentabilidade
+## SUSTENTABILIDADE
 
 O conceito de desenvolvimento sustentável foi criado em 1987 no documento “Nosso Futuro Comum”, da Comissão Mundial sobre Meio Ambiente e Desenvolvimento (CMMAD) da Organização das Nações Unidas:
 
@@ -72,5 +72,4 @@ O conceito de desenvolvimento sustentável foi criado em 1987 no documento “No
 
 ## HABILIDADES E COMPETENCIAS EMPREENDEDORAS
 ### CRITIVIDADE E INOVAÇÃO
-
 

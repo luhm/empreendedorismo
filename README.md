@@ -51,3 +51,17 @@ Exemplo:
 <span style="color:purple">teste 2</span>
 
 <span style="color:teal">**teste 3**</span>
+
+## TAGS
+
+<span style="color:teal"> color
+
+<fig> figura
+
+<tab> tabela
+
+<ins> sublinhado
+
+<sup> superior
+
+<del> tachado
