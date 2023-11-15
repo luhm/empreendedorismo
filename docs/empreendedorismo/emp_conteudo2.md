@@ -122,4 +122,25 @@ O conceito de desenvolvimento sustentável foi criado em 1987 no documento “No
 
 ### Comunicação
 
+- 3 áreas
+    - sintaxe - transmissão da informação
+    - semântica - significado de simbolos
+    - pragmática - como afeta o comportamento
+- Axiomas da comunicação pragmática
+    - sempre haverá comunicação, mesmo no silência
+    - conteúdo (o que se fala) e relação (ordem, como se fala)
+    - sequencia de eventos
+    - forma digital e analogica de comunicação
+    - interação simétrica (igualdade nas ações/relações) ou complementar (diferença nas ações/relações)
+- diálogo bem sucedido:
+    - é importante saber direcionar e também ouvir
+    - escuta ativa
+    - estar aberto a novas ideias
+- feedback
+
+![](./assets/feedback.png)
+<fig>Pontos importantes em um feedback</fig>
+
+- Rede de contatos
+    - construção de confiança
 
