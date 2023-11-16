@@ -23,6 +23,11 @@ _Postado em 12/11/2023, às 11:52_
 3. Apresente suas ideias de projetos de empreendedorismo social em sua área de formação ou peça feedback sobre elas. (Tópico de resposta opcional)
 4. Deixe pelo menos 1 comentário na postagem de um de seus colegas.
 
+_resposta ao colega JULIO CÉSAR MONDADORI DE OLIVEIRA (27 de outubro de 2023 10:56), em 16/11/2023 às 10:59_
+
+O MST foi o primeiro projeto que me veio à cabeça também para responder essa atividade. O trabalho deles se expande muito além do que o imaginário social coloca - de pessoas brutas, combativas e que estragam tudo. Muitos não conhecem o trabalho deles de uso sustentável da terra, a colaboratividade na luta contra a pobreza e a fome, os diversos produtos que eles fazem/produzem e vendem de forma ecologicamente sustentável e saudável. É um grupo quenão tem apenas as questões socioeconômicas em vista, mas também as questões ambientais e de igualdade.
+
+
 ## QME - UN 2 - <span style="color:#66489D">ATÉ 29/11</span>
 
 * [ ] FEITO
