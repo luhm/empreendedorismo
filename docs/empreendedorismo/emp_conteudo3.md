@@ -60,4 +60,18 @@
 
 ### TEORIA DA CONTINGÊNCIA EM LIDERANÇA DE FIEDLER
 
+- EPC - escala de preferência do colaborador
+    - as pessoas descrevem com quem gostariam de trabalhar
+    - liderança orientada para relações - pontuação alta
+    - liderança orientada para tarefa - pontuação baixa
+- variáveis:
+    - se há ou não apoio ao líder
+    - compreensão quanto aos objetivos das tarefas, procedimentos e orientações
+    - autoridade do líder para recompensar ou punir
+- para funcionar precisa da consciencia do proprio líder sobre seu tipo de liderança
 
+### TEORIA DA META E DO CAMINHO DE ROBERT HOUSE
+
+- uma das mais respeitadas tecnicas
+- líderes seriam pessoas capazes de abrir caminhos e reduzir os obstáculos para a atuação de seus liderados
+- 
