@@ -14,6 +14,8 @@
     - liderança é relacional - estar líder, não ser líder
     - ligada à influência
     - necessita aceitação
+- constituição de um grupo
+    - Formação, quando são definidos o seu propósito, estrutura e liderança
 
 ### TEORIA DOS TRAÇOS
 
@@ -74,4 +76,16 @@
 
 - uma das mais respeitadas tecnicas
 - líderes seriam pessoas capazes de abrir caminhos e reduzir os obstáculos para a atuação de seus liderados
+- 4 tipos:
+    - ![](./assets/.png)
+<fig>4 tipos de liderança na Teoria da meta</fig>
+- 2 variáveis:
+    - variáveis contingenciais ambientais: fora do controle do lider
+    - variáveis contingenciais do funcionário: centro de controle
+ 
+### Teoria da Liderança Situacional (TLS) de Hersey e Blanchard
+
+- foco está nos liderados
+- a eficácia da liderança depende da aceitação do líder pelos liderados
+- o líder deve reduzir o seu controle na medida em que são criados laços de confiança e os liderados são mais responsáveis
 - 
