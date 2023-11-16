@@ -16,6 +16,14 @@
     - necessita aceitação
 - constituição de um grupo
     - Formação, quando são definidos o seu propósito, estrutura e liderança
+    - Tormenta, quando os membros aceitam o grupo, mas resistem ao controle exercido à sua individualidade.
+    - Normalização, aqui começa a criação de uma identidade grupal e surge a camaradagem.
+    - Desempenho, a estrutura do grupo torna-se funcional e aceita, e o desempenho cresce.
+- o líder de uma equipe possivelmente terá que enfrentar situações de conflitos na equipe
+    - tipos de conflito:
+        - tarefa
+        - relacionamento
+        - processos
 
 ### TEORIA DOS TRAÇOS
 
@@ -88,4 +96,25 @@
 - foco está nos liderados
 - a eficácia da liderança depende da aceitação do líder pelos liderados
 - o líder deve reduzir o seu controle na medida em que são criados laços de confiança e os liderados são mais responsáveis
+
+### NEGOCIAÇÃO NA TOMADA DE DECISÕES
+
+- acordo entre duas ou mais partes, mas sem a mediação de uma terceira pessoa, em busca de um objetivo
+- abordagens:
+    - negociação distributiva, mais tradicional do tipo ganha-perde, em que o bolo é fixo
+    - negociação integradora, com soluções do tipo ganha-ganha, em que são criadas várias opções
+
+### GESTÃO DE CRISES
+
+- Crise é um acontecimento que envolve falhas, que gera aflição geral, situações de desgaste de relacionamentos
+    - Vem muito por problemas de gestão
+    - pode gerar um momento de oportunidade
+- Prever os principais riscos e ameaças à organização e se antecipar na solução destes problemas
+- identificação dos riscos, que devem ser listados, quantificados e devem mensurar a probabilidade de ocorrência e o grau de gravidade
+    - Quando não for possível eliminar o risco, o empreendedor deve planejar ações corretivas
+
+## FORMAÇÃO E DESENVOLVIMENTO PROFISSIONAL
+
+- a universidade deve estimular o contato do estudante com os empreendedores, por meio de estágios, palestras, programas de mentoria, criação de empresas juniores, realização de editais para o fomento de projetos empreendedores, dentre outros
+> disciplina de empreendedorismo é parte do currículo de todos os cursos e são frequentadas por estudantes de diferentes cursos. Isso permite que você possa conhecer estudantes de outras áreas de formação, com diferentes visões, fomentando a interdisciplinaridade e as possibilidades de futuras sociedades e parcerias.
 - 
