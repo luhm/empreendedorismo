@@ -85,7 +85,7 @@
 - uma das mais respeitadas tecnicas
 - líderes seriam pessoas capazes de abrir caminhos e reduzir os obstáculos para a atuação de seus liderados
 - 4 tipos:
-    - ![](./assets/.png)
+    - ![](./assets/teoria_da_meta.png)
 <fig>4 tipos de liderança na Teoria da meta</fig>
 - 2 variáveis:
     - variáveis contingenciais ambientais: fora do controle do lider
@@ -119,4 +119,4 @@
 > disciplina de empreendedorismo é parte do currículo de todos os cursos e são frequentadas por estudantes de diferentes cursos. Isso permite que você possa conhecer estudantes de outras áreas de formação, com diferentes visões, fomentando a interdisciplinaridade e as possibilidades de futuras sociedades e parcerias.
 - A maioria dos empreendedores universitários oferece um produto já existente no mercado nacional ou regional ou realiza um aprimoramento de um produto já existente. Poucos são os que possuem um produto novo no mercado nacional ou no mercado mundial.
 - Empreender significa enfrentar desafios parecidos a trocar o pneu do carro enquanto ele está rodando.
-- 
+

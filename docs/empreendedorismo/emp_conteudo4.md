@@ -29,4 +29,9 @@ Empresa social
   - É preciso pesquisar sobre a empresa parceira, analisando seus serviços ou produtos, bem como sobre sua estrutura.
   - Procure saber sobre a área de atuação da empresa e se ela possui serviços e produtos complementares àqueles que são ofertados por você.
   - Deixe claro como cada parceiro irá contribuir na parceria e procure colocar isso em um contrato.
-  - 
+
+## PRÁTICA EMPREENDEDORA E INOVADORA
+
+![](./assets/17184658.png)
+<fig>ETAPAS DO PROCESSO EMPREENDEDOR</fig>
+
