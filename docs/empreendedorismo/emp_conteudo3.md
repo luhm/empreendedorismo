@@ -117,4 +117,6 @@
 
 - a universidade deve estimular o contato do estudante com os empreendedores, por meio de estágios, palestras, programas de mentoria, criação de empresas juniores, realização de editais para o fomento de projetos empreendedores, dentre outros
 > disciplina de empreendedorismo é parte do currículo de todos os cursos e são frequentadas por estudantes de diferentes cursos. Isso permite que você possa conhecer estudantes de outras áreas de formação, com diferentes visões, fomentando a interdisciplinaridade e as possibilidades de futuras sociedades e parcerias.
+- A maioria dos empreendedores universitários oferece um produto já existente no mercado nacional ou regional ou realiza um aprimoramento de um produto já existente. Poucos são os que possuem um produto novo no mercado nacional ou no mercado mundial.
+- Empreender significa enfrentar desafios parecidos a trocar o pneu do carro enquanto ele está rodando.
 - 
