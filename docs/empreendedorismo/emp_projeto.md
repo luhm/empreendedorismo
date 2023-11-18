@@ -61,11 +61,24 @@ Mais informações sobre desenho 3D e volume alvo em:
 
 ## PRA QUEM
 __QUEM É MEU CLIENTE?__
-### relacionamento com clientes
 
 ### segmentos de clientes
 
+a. Hospitais e clínicas particulares
+
+b. Hospitais e instituições públicas
+
 ### canais
+
+a. Participação em feiras de inovação tecnológica, Linked-In, carteira de clientes
+
+b. Via licitação publica ou dispensa de licitação
+
+### relacionamento com clientes
+
+**Portifólio**: Instagram, Linked-In, site
+
+**Distribuição**: Uma versão gratuita/de teste e uma paga mais completa
 
 ## QUANTO
 
