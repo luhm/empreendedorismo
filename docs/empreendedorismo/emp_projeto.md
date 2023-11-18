@@ -40,12 +40,18 @@ Essa atividade será entregue em duas partes:
 
 ### parcerias principais
 
+<span style="color:#A082D6">Redução de riscos e Terceirização</span>: Softwares de nuvem e de apoio ao desenvolvimento tecnológico e de programação do novo software
+
+<span style="color:#A082D6">Produto/serviço</span>: Uso de plataformas digitais para networking e rede de clientes; redes sociais e plataformas de anúncios, divulgação e marketing (Facebook Ads)
+
 ### atividades principais
 
-- <span style="color:#A082D6"> Resolução de problemas </span>: automatização da vetorização de alvos volumétricos em readioterapia
-- <span style="color:#A082D6"> Plataforma </span>: criação de software
+<span style="color:#A082D6"> **Resolução de problemas** </span>: automatização da vetorização de alvos volumétricos em readioterapia
+<span style="color:#A082D6"> **Plataforma** </span>: criação de software
 
 ### recursos principais
+
+<span style="color:#A082D6"> Intelectuais</span>: desenvolvedores e programadores.
 
 ## O QUE
 
@@ -76,9 +82,9 @@ b. Via licitação publica ou dispensa de licitação
 
 ### relacionamento com clientes
 
-**Portifólio**: Instagram, Linked-In, site
+<span style="color:#A082D6">**Portifólio**</span>: Instagram, Linked-In, site
 
-**Distribuição**: Uma versão gratuita/de teste e uma paga mais completa
+<span style="color:#A082D6">**Distribuição**</span>: Uma versão gratuita/de teste e uma paga mais completa
 
 ## QUANTO
 
@@ -86,14 +92,14 @@ b. Via licitação publica ou dispensa de licitação
 
 Custo temporal para uso/desenvolvimento.
 
-**Custos operacionais**: máquinas, serviços de softwares parceiros, 
+<span style="color:#A082D6"> **Custos operacionais**</span>: máquinas, serviços de softwares parceiros, 
 
-**Custos administrativos**: recursos humanos, internet, manutenção
+<span style="color:#A082D6"> **Custos administrativos**</span>: recursos humanos, internet, manutenção.
 
-**Custos jurídicos**: patentes, contratos de venda/comodato
+<span style="color:#A082D6"> **Custos jurídicos**</span>: patentes, contratos de venda/comodato, despesas judiciais extras.
 
 ### Fontes de receita
 
-**Receita direta**: Investimento interno da própria empresa - intraempreendedorismo.
+<span style="color:#A082D6"> **Receita direta**</span>: Investimento interno da própria empresa - intraempreendedorismo.
 
-**Vendas de soluções**: Consultorias e contratos de atualização de software.
+<span style="color:#A082D6"> **Vendas de soluções**</span>: Consultorias, contratos de atualização de software, comodato.
