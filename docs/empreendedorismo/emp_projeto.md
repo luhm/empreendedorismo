@@ -70,7 +70,7 @@ b. Hospitais e instituições públicas
 
 ### canais
 
-a. Participação em feiras de inovação tecnológica, Linked-In, carteira de clientes
+a. Participação em feiras de inovação tecnológica, Linked-In, carteira de clientes (redes e Networking)
 
 b. Via licitação publica ou dispensa de licitação
 
@@ -84,4 +84,16 @@ b. Via licitação publica ou dispensa de licitação
 
 ### Estrutura de custos
 
+Custo temporal para uso/desenvolvimento.
+
+**Custos operacionais**: máquinas, serviços de softwares parceiros, 
+
+**Custos administrativos**: recursos humanos, internet, manutenção
+
+**Custos jurídicos**: patentes, contratos de venda/comodato
+
 ### Fontes de receita
+
+**Receita direta**: Investimento interno da própria empresa - intraempreendedorismo.
+
+**Vendas de soluções**: Consultorias e contratos de atualização de software.
