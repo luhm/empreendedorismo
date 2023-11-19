@@ -3,7 +3,7 @@
 ## FÓRUM - <span style="color:#66489D">ATÉ 22/11</span>
 
 * [X] FEITO
-* [ ] POSTADO
+* [X] POSTADO
 
 Leia o texto a seguir: [“Empreendedorismo Social no Brasil: Exemplos De Empreendimentos Sociais”](https://periodicos.uem.br/ojs/index.php/rev_prod/article/view/52360/pdf) de Larissa Candida Rodrigues – Universidade Estadual do Paraná - Campus de Campo Mourão.
 
@@ -48,7 +48,14 @@ Além disso, encoraja a mentalidade de busca de oportunidades, adaptabilidade e 
 4. Elaborar um Resumo do Conceito: criar um resumo conciso do seu conceito de negócio, incluindo os principais pontos que destacam sua viabilidade e oportunidades de sucesso.
 
 A atividade deve conter nó máximo uma página, seguir normas de formatação ABNT.
+--------
+1. Conceito de negócio: softwares de edição de imagens médicas - DICOM, de fantomas de voxel e imagens dosimétricas
+2. Pesquisa de mercado: [5 melhor apps pra DICOM](https://www.imaios.com/br/recursos/blog/5-melhores-dicom-viewer), [Aplicativo para dosimetria interna](https://www.scielo.br/j/rb/a/WyftPQk49J5CDhnwnPh5Byf/), [Dosimetria Numérica](https://dosimetrianumerica.org/producoes-cientificas/softwares/), [Softwares de imagens médicas](https://www.imagemmedica.com/p/softwares.html)
+3. justificativa do conceito:
+4. Resumo:
+   **Viabilidade**:
 
+   **Oportunidades de sucesso**:
 
 ## QME - UN 4 - <span style="color:#66489D">ATÉ 29/11</span>
 
