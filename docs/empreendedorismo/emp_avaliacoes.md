@@ -102,7 +102,7 @@ GE-EMP-UN-1-QME-1
 
 ## ATV ABERTA - <span style="color:#66489D">ATÉ 22/11</span>
 
-* [ ] FEITO
+* [X] FEITO
 
 * [ ] POSTADO
 
