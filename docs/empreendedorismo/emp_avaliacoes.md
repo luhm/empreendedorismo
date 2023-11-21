@@ -35,45 +35,53 @@ O MST foi o primeiro projeto que me veio à cabeça também para responder essa 
 **Pergunta 1 (1 ponto)**
 
 GE-EMP-UN-1-QME-9
+
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/1417c551-b341-4313-b003-927c5829a008)
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/db26cd0d-aaf2-4bb4-b456-2a7df85c714a)
 
 Pergunta 2 (1 ponto) 
 
 GE-EMP-UN-2-QME-2
+
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/9f923b17-e027-4cbc-b498-15b1a3483799)
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/6207d7e4-de8f-46f0-bfa5-124d431552f5)
 
 Pergunta 3 (1 ponto) 
 
 GE-EMP-UN-2-QME-4
+
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/10a2ffff-453e-4083-a926-3869748ecd5a)
 
 Pergunta 4 (1 ponto)
 
 GE-EMP-UN-2-QME-5
+
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/374729ef-def8-4228-a460-73cc8c256a5c)
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/fcf0f23f-0fa8-4204-b245-892041b90bac)
 
 Pergunta 5 (1 ponto) 
 
 QE-EMP-UN-1-QME-4
+
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/b4419b11-e4b9-4448-86b5-90af65204178)
 
 Pergunta 6 (1 ponto) 
 
 GE-EMP-UN-1-QME-8
+
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/d8d0a1c4-bd94-48a3-98a2-ffcd1efb7827)
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/68d97276-9e3f-494f-b551-6caaa9056fe8)
 
 Pergunta 7 (1 ponto) 
 
 GE-EMP-UN-1-QME-2
+
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/cac44c68-033c-486b-8ec5-e4d2ccb81848)
 
 Pergunta 8 (1 ponto) 
 
 GE-EMP-UN-1-QME-7
+
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/03239e16-ce7c-45b6-8d2f-65520c224d12)
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/f9ea3e14-6f1c-4417-a815-ee32ab5d8645)
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/fdf50429-216f-4a2a-b65f-ab94fd6c5886)
@@ -81,11 +89,13 @@ GE-EMP-UN-1-QME-7
 Pergunta 9 (1 ponto)
 
 GE-EMP-UN-1-QME-1
+
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/8a1d713c-f281-4a19-8013-c5cf8b93a976)
 
 Pergunta 10 (1 ponto) 
 
 GE-EMP-UN-1-QME-1
+
 ![image](https://github.com/luhm/empreendedorismo/assets/18331692/281cb91c-cf97-4e3e-ae3d-fddd0b70f86e)
 
 
