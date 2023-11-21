@@ -30,7 +30,7 @@ O MST foi o primeiro projeto que me veio à cabeça também para responder essa 
 
 ## QME - UN 2 - <span style="color:#66489D">ATÉ 29/11</span>
 
-* [X] FEITO
+* [X] FEITO - 21/11, 10,0
 
 **Pergunta 1 (1 ponto)**
 
