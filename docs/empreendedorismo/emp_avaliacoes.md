@@ -104,7 +104,7 @@ GE-EMP-UN-1-QME-1
 
 * [X] FEITO
 
-* [ ] POSTADO
+* [X] ENVIADO
 
 Falar sobre empreendedorismo na área de saúde é de vital importância, pois essa abordagem não apenas impulsiona a inovação e o progresso no setor, mas também capacita profissionais de saúde a encontrar soluções criativas para os desafios complexos enfrentados na área. O empreendedorismo na saúde promove o desenvolvimento de novas tecnologias, práticas de atendimento e modelos de negócios que podem melhorar a qualidade dos serviços prestados e tornar a assistência médica mais acessível e eficiente.
 
@@ -116,7 +116,10 @@ Além disso, encoraja a mentalidade de busca de oportunidades, adaptabilidade e 
 4. Elaborar um Resumo do Conceito: criar um resumo conciso do seu conceito de negócio, incluindo os principais pontos que destacam sua viabilidade e oportunidades de sucesso.
 
 A atividade deve conter nó máximo uma página, seguir normas de formatação ABNT.
+
 --------
+## IDEIAS
+
 1. Conceito de negócio: softwares de edição de imagens médicas - DICOM, de fantomas de voxel e imagens dosimétricas
 2. Pesquisa de mercado: [5 melhor apps pra DICOM](https://www.imaios.com/br/recursos/blog/5-melhores-dicom-viewer), [Aplicativo para dosimetria interna](https://www.scielo.br/j/rb/a/WyftPQk49J5CDhnwnPh5Byf/), [Dosimetria Numérica](https://dosimetrianumerica.org/producoes-cientificas/softwares/), [Softwares de imagens médicas](https://www.imagemmedica.com/p/softwares.html)
 3. justificativa do conceito:
@@ -125,6 +128,47 @@ A atividade deve conter nó máximo uma página, seguir normas de formatação A
 
    **Oportunidades de sucesso**:
 
-## QME - UN 4 - <span style="color:#66489D">ATÉ 29/11</span>
+## QME - UN 4 - <span style="color:#66489D">ATÉ 29/11</span> - 22/11, 8,0
 
-* [ ] FEITO
+* [x] FEITO
+
+Pergunta 1 (1 ponto) - GE- EMP-UN-04-QME-07
+
+![image](https://github.com/luhm/empreendedorismo/assets/18331692/3a6b46f3-56a1-4352-b097-2d32cfba8b80)
+
+Pergunta 2 (1 ponto) - GE-EMP-UN-3-QME-2
+
+![image](https://github.com/luhm/empreendedorismo/assets/18331692/37324f2a-9032-4782-9224-280eb482a58c)
+
+Pergunta 3 (1 ponto) - GE- EMP-UN-04-QME-09
+
+![image](https://github.com/luhm/empreendedorismo/assets/18331692/6adc5f21-a5f3-47d6-8614-c33eb1d23ae2)
+
+Pergunta 4 (1 ponto) - GE- EMP-UN-04-QME-08
+
+![image](https://github.com/luhm/empreendedorismo/assets/18331692/ab446465-8f17-4a85-bebc-e9cbe763e96a)
+
+Pergunta 5 (1 ponto) - GE- EMP-UN-04-QME-02
+
+![image](https://github.com/luhm/empreendedorismo/assets/18331692/838ed7b9-d3ca-499f-b107-498fca3c7d82)
+
+Pergunta 6 (1 ponto) - GE-EMP-UN-4-QME-1
+
+![image](https://github.com/luhm/empreendedorismo/assets/18331692/9e82199c-5b2c-47f0-a503-b608fb461f67)
+
+Pergunta 7 (1 ponto) - GE- EMP-UN-04-QME-05
+
+![image](https://github.com/luhm/empreendedorismo/assets/18331692/cf1a3dda-4e6f-4906-842f-da6e770386c9)
+
+Pergunta 8 (1 ponto) - GE- EMP-UN-04-QME-03
+
+![image](https://github.com/luhm/empreendedorismo/assets/18331692/a86e92da-b3e5-4a9b-9384-8bf7d548bc8a)
+
+Pergunta 9 (1 ponto) - GE- EMP-UN-04-QME-09
+
+![image](https://github.com/luhm/empreendedorismo/assets/18331692/89068d76-d1b0-444d-af24-a9e15088332c)
+
+Pergunta 10 (1 ponto) - GE-EMP-UN-4-QME-2
+
+![image](https://github.com/luhm/empreendedorismo/assets/18331692/e9ad8492-6fc0-47e6-8915-f7d02527b5e5)
+
