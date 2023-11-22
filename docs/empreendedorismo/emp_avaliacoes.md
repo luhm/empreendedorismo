@@ -30,7 +30,7 @@ O MST foi o primeiro projeto que me veio à cabeça também para responder essa 
 
 ## QME - UN 2 - <span style="color:#66489D">ATÉ 29/11</span>
 
-* [X] FEITO - 21/11, 10,0
+* [X] FEITO - 21/11, 10pts
 
 **Pergunta 1 (1 ponto)**
 
@@ -128,9 +128,9 @@ A atividade deve conter nó máximo uma página, seguir normas de formatação A
 
    **Oportunidades de sucesso**:
 
-## QME - UN 4 - <span style="color:#66489D">ATÉ 29/11</span> - 22/11, 8,0
+## QME - UN 4 - <span style="color:#66489D">ATÉ 29/11</span>
 
-* [x] FEITO
+* [x] FEITO - 22/11, 8pts
 
 Pergunta 1 (1 ponto) - GE- EMP-UN-04-QME-07
 
